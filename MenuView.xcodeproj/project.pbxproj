@@ -16,6 +16,39 @@
 		1304C65B200C45990032618A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1304C65A200C45990032618A /* main.m */; };
 		1304C665200C459A0032618A /* MenuViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1304C664200C459A0032618A /* MenuViewTests.m */; };
 		1304C670200C459A0032618A /* MenuViewUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1304C66F200C459A0032618A /* MenuViewUITests.m */; };
+		1304C68B200C45F80032618A /* 付款.png in Resources */ = {isa = PBXBuildFile; fileRef = 1304C680200C45F80032618A /* 付款.png */; };
+		1304C68C200C45F80032618A /* 付款.png in Resources */ = {isa = PBXBuildFile; fileRef = 1304C680200C45F80032618A /* 付款.png */; };
+		1304C68D200C45F80032618A /* 付款.png in Resources */ = {isa = PBXBuildFile; fileRef = 1304C680200C45F80032618A /* 付款.png */; };
+		1304C68E200C45F80032618A /* 创建群聊.png in Resources */ = {isa = PBXBuildFile; fileRef = 1304C681200C45F80032618A /* 创建群聊.png */; };
+		1304C68F200C45F80032618A /* 创建群聊.png in Resources */ = {isa = PBXBuildFile; fileRef = 1304C681200C45F80032618A /* 创建群聊.png */; };
+		1304C690200C45F80032618A /* 创建群聊.png in Resources */ = {isa = PBXBuildFile; fileRef = 1304C681200C45F80032618A /* 创建群聊.png */; };
+		1304C691200C45F80032618A /* 加好友.png in Resources */ = {isa = PBXBuildFile; fileRef = 1304C682200C45F80032618A /* 加好友.png */; };
+		1304C692200C45F80032618A /* 加好友.png in Resources */ = {isa = PBXBuildFile; fileRef = 1304C682200C45F80032618A /* 加好友.png */; };
+		1304C693200C45F80032618A /* 加好友.png in Resources */ = {isa = PBXBuildFile; fileRef = 1304C682200C45F80032618A /* 加好友.png */; };
+		1304C694200C45F80032618A /* 扫一扫.png in Resources */ = {isa = PBXBuildFile; fileRef = 1304C683200C45F80032618A /* 扫一扫.png */; };
+		1304C695200C45F80032618A /* 扫一扫.png in Resources */ = {isa = PBXBuildFile; fileRef = 1304C683200C45F80032618A /* 扫一扫.png */; };
+		1304C696200C45F80032618A /* 扫一扫.png in Resources */ = {isa = PBXBuildFile; fileRef = 1304C683200C45F80032618A /* 扫一扫.png */; };
+		1304C697200C45F80032618A /* 拍摄.png in Resources */ = {isa = PBXBuildFile; fileRef = 1304C684200C45F80032618A /* 拍摄.png */; };
+		1304C698200C45F80032618A /* 拍摄.png in Resources */ = {isa = PBXBuildFile; fileRef = 1304C684200C45F80032618A /* 拍摄.png */; };
+		1304C699200C45F80032618A /* 拍摄.png in Resources */ = {isa = PBXBuildFile; fileRef = 1304C684200C45F80032618A /* 拍摄.png */; };
+		1304C69A200C45F80032618A /* 面对面快传.png in Resources */ = {isa = PBXBuildFile; fileRef = 1304C685200C45F80032618A /* 面对面快传.png */; };
+		1304C69B200C45F80032618A /* 面对面快传.png in Resources */ = {isa = PBXBuildFile; fileRef = 1304C685200C45F80032618A /* 面对面快传.png */; };
+		1304C69C200C45F80032618A /* 面对面快传.png in Resources */ = {isa = PBXBuildFile; fileRef = 1304C685200C45F80032618A /* 面对面快传.png */; };
+		1304C69D200C45F80032618A /* 发起群聊.png in Resources */ = {isa = PBXBuildFile; fileRef = 1304C687200C45F80032618A /* 发起群聊.png */; };
+		1304C69E200C45F80032618A /* 发起群聊.png in Resources */ = {isa = PBXBuildFile; fileRef = 1304C687200C45F80032618A /* 发起群聊.png */; };
+		1304C69F200C45F80032618A /* 发起群聊.png in Resources */ = {isa = PBXBuildFile; fileRef = 1304C687200C45F80032618A /* 发起群聊.png */; };
+		1304C6A0200C45F80032618A /* 扫一扫wechat.png in Resources */ = {isa = PBXBuildFile; fileRef = 1304C688200C45F80032618A /* 扫一扫wechat.png */; };
+		1304C6A1200C45F80032618A /* 扫一扫wechat.png in Resources */ = {isa = PBXBuildFile; fileRef = 1304C688200C45F80032618A /* 扫一扫wechat.png */; };
+		1304C6A2200C45F80032618A /* 扫一扫wechat.png in Resources */ = {isa = PBXBuildFile; fileRef = 1304C688200C45F80032618A /* 扫一扫wechat.png */; };
+		1304C6A3200C45F80032618A /* 收付款.png in Resources */ = {isa = PBXBuildFile; fileRef = 1304C689200C45F80032618A /* 收付款.png */; };
+		1304C6A4200C45F80032618A /* 收付款.png in Resources */ = {isa = PBXBuildFile; fileRef = 1304C689200C45F80032618A /* 收付款.png */; };
+		1304C6A5200C45F80032618A /* 收付款.png in Resources */ = {isa = PBXBuildFile; fileRef = 1304C689200C45F80032618A /* 收付款.png */; };
+		1304C6A6200C45F80032618A /* 添加朋友.png in Resources */ = {isa = PBXBuildFile; fileRef = 1304C68A200C45F80032618A /* 添加朋友.png */; };
+		1304C6A7200C45F80032618A /* 添加朋友.png in Resources */ = {isa = PBXBuildFile; fileRef = 1304C68A200C45F80032618A /* 添加朋友.png */; };
+		1304C6A8200C45F80032618A /* 添加朋友.png in Resources */ = {isa = PBXBuildFile; fileRef = 1304C68A200C45F80032618A /* 添加朋友.png */; };
+		1304C6AB200C462E0032618A /* PST_MenuView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1304C6A9200C462E0032618A /* PST_MenuView.m */; };
+		1304C6AC200C462E0032618A /* PST_MenuView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1304C6A9200C462E0032618A /* PST_MenuView.m */; };
+		1304C6AD200C462E0032618A /* PST_MenuView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1304C6A9200C462E0032618A /* PST_MenuView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +86,18 @@
 		1304C66B200C459A0032618A /* MenuViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MenuViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1304C66F200C459A0032618A /* MenuViewUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MenuViewUITests.m; sourceTree = "<group>"; };
 		1304C671200C459A0032618A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1304C680200C45F80032618A /* 付款.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "付款.png"; sourceTree = "<group>"; };
+		1304C681200C45F80032618A /* 创建群聊.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "创建群聊.png"; sourceTree = "<group>"; };
+		1304C682200C45F80032618A /* 加好友.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "加好友.png"; sourceTree = "<group>"; };
+		1304C683200C45F80032618A /* 扫一扫.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "扫一扫.png"; sourceTree = "<group>"; };
+		1304C684200C45F80032618A /* 拍摄.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "拍摄.png"; sourceTree = "<group>"; };
+		1304C685200C45F80032618A /* 面对面快传.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "面对面快传.png"; sourceTree = "<group>"; };
+		1304C687200C45F80032618A /* 发起群聊.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "发起群聊.png"; sourceTree = "<group>"; };
+		1304C688200C45F80032618A /* 扫一扫wechat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "扫一扫wechat.png"; sourceTree = "<group>"; };
+		1304C689200C45F80032618A /* 收付款.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "收付款.png"; sourceTree = "<group>"; };
+		1304C68A200C45F80032618A /* 添加朋友.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "添加朋友.png"; sourceTree = "<group>"; };
+		1304C6A9200C462E0032618A /* PST_MenuView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PST_MenuView.m; sourceTree = "<group>"; };
+		1304C6AA200C462E0032618A /* PST_MenuView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PST_MenuView.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +148,8 @@
 		1304C647200C45990032618A /* MenuView */ = {
 			isa = PBXGroup;
 			children = (
+				1304C67D200C45F80032618A /* PST_MenuView */,
+				1304C67E200C45F80032618A /* Resource */,
 				1304C648200C45990032618A /* AppDelegate.h */,
 				1304C649200C45990032618A /* AppDelegate.m */,
 				1304C64B200C45990032618A /* ViewController.h */,
@@ -133,6 +180,48 @@
 				1304C671200C459A0032618A /* Info.plist */,
 			);
 			path = MenuViewUITests;
+			sourceTree = "<group>";
+		};
+		1304C67D200C45F80032618A /* PST_MenuView */ = {
+			isa = PBXGroup;
+			children = (
+				1304C6AA200C462E0032618A /* PST_MenuView.h */,
+				1304C6A9200C462E0032618A /* PST_MenuView.m */,
+			);
+			path = PST_MenuView;
+			sourceTree = "<group>";
+		};
+		1304C67E200C45F80032618A /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				1304C67F200C45F80032618A /* QQ */,
+				1304C686200C45F80032618A /* Wechat */,
+			);
+			path = Resource;
+			sourceTree = "<group>";
+		};
+		1304C67F200C45F80032618A /* QQ */ = {
+			isa = PBXGroup;
+			children = (
+				1304C680200C45F80032618A /* 付款.png */,
+				1304C681200C45F80032618A /* 创建群聊.png */,
+				1304C682200C45F80032618A /* 加好友.png */,
+				1304C683200C45F80032618A /* 扫一扫.png */,
+				1304C684200C45F80032618A /* 拍摄.png */,
+				1304C685200C45F80032618A /* 面对面快传.png */,
+			);
+			path = QQ;
+			sourceTree = "<group>";
+		};
+		1304C686200C45F80032618A /* Wechat */ = {
+			isa = PBXGroup;
+			children = (
+				1304C687200C45F80032618A /* 发起群聊.png */,
+				1304C688200C45F80032618A /* 扫一扫wechat.png */,
+				1304C689200C45F80032618A /* 收付款.png */,
+				1304C68A200C45F80032618A /* 添加朋友.png */,
+			);
+			path = Wechat;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -197,6 +286,7 @@
 		1304C63D200C45990032618A /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				CLASSPREFIX = PST_;
 				LastUpgradeCheck = 0920;
 				ORGANIZATIONNAME = pst;
 				TargetAttributes = {
@@ -241,9 +331,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1304C691200C45F80032618A /* 加好友.png in Resources */,
 				1304C658200C45990032618A /* LaunchScreen.storyboard in Resources */,
+				1304C69A200C45F80032618A /* 面对面快传.png in Resources */,
+				1304C697200C45F80032618A /* 拍摄.png in Resources */,
+				1304C68E200C45F80032618A /* 创建群聊.png in Resources */,
 				1304C655200C45990032618A /* Assets.xcassets in Resources */,
+				1304C6A3200C45F80032618A /* 收付款.png in Resources */,
+				1304C694200C45F80032618A /* 扫一扫.png in Resources */,
+				1304C69D200C45F80032618A /* 发起群聊.png in Resources */,
+				1304C6A0200C45F80032618A /* 扫一扫wechat.png in Resources */,
 				1304C650200C45990032618A /* Main.storyboard in Resources */,
+				1304C68B200C45F80032618A /* 付款.png in Resources */,
+				1304C6A6200C45F80032618A /* 添加朋友.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -251,6 +351,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1304C698200C45F80032618A /* 拍摄.png in Resources */,
+				1304C695200C45F80032618A /* 扫一扫.png in Resources */,
+				1304C6A1200C45F80032618A /* 扫一扫wechat.png in Resources */,
+				1304C69B200C45F80032618A /* 面对面快传.png in Resources */,
+				1304C692200C45F80032618A /* 加好友.png in Resources */,
+				1304C69E200C45F80032618A /* 发起群聊.png in Resources */,
+				1304C6A7200C45F80032618A /* 添加朋友.png in Resources */,
+				1304C6A4200C45F80032618A /* 收付款.png in Resources */,
+				1304C68F200C45F80032618A /* 创建群聊.png in Resources */,
+				1304C68C200C45F80032618A /* 付款.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,6 +368,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1304C699200C45F80032618A /* 拍摄.png in Resources */,
+				1304C696200C45F80032618A /* 扫一扫.png in Resources */,
+				1304C6A2200C45F80032618A /* 扫一扫wechat.png in Resources */,
+				1304C69C200C45F80032618A /* 面对面快传.png in Resources */,
+				1304C693200C45F80032618A /* 加好友.png in Resources */,
+				1304C69F200C45F80032618A /* 发起群聊.png in Resources */,
+				1304C6A8200C45F80032618A /* 添加朋友.png in Resources */,
+				1304C6A5200C45F80032618A /* 收付款.png in Resources */,
+				1304C690200C45F80032618A /* 创建群聊.png in Resources */,
+				1304C68D200C45F80032618A /* 付款.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,6 +392,7 @@
 				1304C64D200C45990032618A /* ViewController.m in Sources */,
 				1304C65B200C45990032618A /* main.m in Sources */,
 				1304C64A200C45990032618A /* AppDelegate.m in Sources */,
+				1304C6AB200C462E0032618A /* PST_MenuView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -280,6 +401,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1304C665200C459A0032618A /* MenuViewTests.m in Sources */,
+				1304C6AC200C462E0032618A /* PST_MenuView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -288,6 +410,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1304C670200C459A0032618A /* MenuViewUITests.m in Sources */,
+				1304C6AD200C462E0032618A /* PST_MenuView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
